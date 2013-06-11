@@ -51,7 +51,7 @@
     
 //    [self linearAnimation];
 //    [self curveAnimation];
-    [self customCurveAnimation];
+//    [self customCurveAnimation];
 }
 
 -(void)linearAnimation{
@@ -107,6 +107,8 @@
  Also see:
  http://khanlou.com/2012/01/cakeyframeanimation-make-it-bounce/
  http://stackoverflow.com/a/10450495/1072846
+ 
+ https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIView_Class/UIView/UIView.html#//apple_ref/occ/clm/UIView/animateKeyframesWithDuration:delay:options:animations:completion:
  
  */
 
